@@ -1,3 +1,5 @@
+// Semi-Ordered Permutation
+
 // Task
 // You are given a 0-indexed permutation of n integers nums.
 // A permutation is called semi-ordered if the first number equals 1 and the last number equals n.
